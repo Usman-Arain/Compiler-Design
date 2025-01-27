@@ -1,10 +1,10 @@
 # ChatterLang Grammar and Parser
 
 ## Overview
-This repository contains the implementation of a lexer, parser, and grammar for ChatterLang++, a custom programming language designed to handle structured dialogues and logical flows. This includes:
+This repository contains the implementation of a lexer, parser, and grammar for ChatterLang, a custom programming language designed to handle structured dialogues and logical flows. This includes:
 
 - A **lexer** for tokenizing input source code.
-- An **LL(1) parser** for parsing and validating ChatterLang++ programs.
+- An **LL(1) parser** for parsing and validating ChatterLang programs.
 - A **grammar specification** and corresponding parsing table.
 
 ## Grammar Specification
